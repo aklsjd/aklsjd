@@ -10,6 +10,13 @@
 >
 > - `반응형 웹` 구현에 관심이 있습니다.
 
+<h2>😉사용 가능한 기술 스택</h2>
+<h4>- Language</h4>
+<p float="left">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</p>
 
 ![title](https://user-images.githubusercontent.com/115196609/206960018-137309a4-de19-40f1-b135-65aeb0a04baa.png)   
 
