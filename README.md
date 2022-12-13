@@ -18,5 +18,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </p>
 
-![title](https://user-images.githubusercontent.com/115196609/206960018-137309a4-de19-40f1-b135-65aeb0a04baa.png)   
 
